@@ -18,4 +18,4 @@ Click on "Kiralık”  <br/>
 Make a search: Ankara - Çankaya; Konut; 2+1; Site İçerisinde: Evet ;  <br/>
 Click on the 3rd listing on the results and go to listing detail page.  <br/>
 WEB: On the Detail page there is a “Telefon Numarasini Goster” link on the right.  <br/>
-Validate the phone number that it is a  <br/>
+Validate the phone number that it is a a real and valid mobile or landline number <br/>
